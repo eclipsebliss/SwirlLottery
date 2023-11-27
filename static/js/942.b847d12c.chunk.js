@@ -1,0 +1,1 @@
+(self.webpackChunklottery_ticket=self.webpackChunklottery_ticket||[]).push([[942],{9678:()=>{},2361:()=>{},4616:()=>{}}]);
